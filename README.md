@@ -152,20 +152,7 @@ VITE_API_BASE_URL=http://localhost:7252/api
 
 ---
 
-## 👥 Team Members & Contributions
 
-| Name | Role | Key Contributions |
-|------|------|------------------|
-| DTD Wijerathna | Backend Lead | Auth, SignalR, Bid Logic, File Architecture |
-| Member 2 | DB Specialist | EF Migrations, Schema Optimization |
-| Member 3 | Frontend Dev | UI Components, State Management, Routing |
-| Member 4 | UI Designer | Admin Dashboard, Responsive Layout |
-| Member 5 | Automation Engineer | Auto-End Service, PayPal Integration |
-| Member 6 | QA & Security | Endpoint Security, Postman Testing |
-| Member 7 | Report Writer | Email Integration, Final Report |
-| Member 8 | Frontend Integrator | SignalR Frontend, Form Validation |
-
----
 
 ## 📜 License
 
